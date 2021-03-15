@@ -57,4 +57,5 @@ I was not able to achieve the target model performance of 75%. I was able to rea
 After evaluating the best performing model (Optimization 1) against the test data, the following results were obtained: 
 - Loss: 0.549, 
 - Accuracy: 0.729
+
 Overall, this model does not reach the target accuracy of 75%. In order to produce a model that could reach the desired accuracy of 0.75, the RandomForestClassifier model could be used. This model may produce a more accurate result as it can handle the tabular data used in this analysis and uses a number of weak learners to predict the classification based on the consensus of all learners.
