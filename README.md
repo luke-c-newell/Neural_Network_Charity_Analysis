@@ -1,6 +1,6 @@
 # Neural_Networks
 ## Overview
-
+In this analysis, my client AlphabetSoup has asked me to use machine learning models to help their foundation determine which organizations they should fund, in order to optimize the success of their investments. Using a deep learning model and the TensorFlow library, I have created a binary classifier which determines whether an investment is likely to be successful or not, based on a number of variables. 
 ## Results
 ### Data Preprocessing
 #### What variable(s) are considered the target(s) for your model?
@@ -31,7 +31,7 @@ I chose the following numbers based on a series of optimizations that produced t
 ![Optimization1](https://github.com/luke-c-newell/Neural_Network_Charity_Analysis/blob/main/images/Optimization1.png "Optimization1.png")
 
 #### Were you able to achieve the target model performance?
-I was not able to acheive the target model performance of 75%. I was able to reach a performance of 72.9%, acheived during Optimization 1.
+I was not able to achieve the target model performance of 75%. I was able to reach a performance of 72.9%, achieved during Optimization 1.
 
 #### What steps did you take to try and increase model performance?
 ##### Optimization 1
